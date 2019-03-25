@@ -2542,6 +2542,41 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X01BD/proprietary/vendor/lib64/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so \
     vendor/asus/X01BD/proprietary/vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so \
     vendor/asus/X01BD/proprietary/vendor/lib64/hw/vulkan.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vulkan.sdm660.so \
+    vendor/asus/X01BD/proprietary/lib64/libarcsoft_beautyshot.so:system/lib64/libarcsoft_beautyshot.so \
+    vendor/asus/X01BD/proprietary/lib64/libarcsoft_hdr.so:system/lib64/libarcsoft_hdr.so \
+    vendor/asus/X01BD/proprietary/lib64/libarcsoft_night_shot.so:system/lib64/libarcsoft_night_shot.so \
+    vendor/asus/X01BD/proprietary/lib64/libarcsoft_panorama_burstcapture.so:system/lib64/libarcsoft_panorama_burstcapture.so \
+    vendor/asus/X01BD/proprietary/lib64/libarcsoft_single_chart_calibration.so:system/lib64/libarcsoft_single_chart_calibration.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_blurbuster.so:system/lib64/libjni_blurbuster.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_chromaflash.so:system/lib64/libjni_chromaflash.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_clearsight.so:system/lib64/libjni_clearsight.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_dualcamera.so:system/lib64/libjni_dualcamera.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_filtergenerator.so:system/lib64/libjni_filtergenerator.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_gallery_eglfence.so:system/lib64/libjni_gallery_eglfence.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_gallery_filters.so:system/lib64/libjni_gallery_filters.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_gallery_jpegstream.so:system/lib64/libjni_gallery_jpegstream.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_hazebuster.so:system/lib64/libjni_hazebuster.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_hq_beautyshot.so:system/lib64/libjni_hq_beautyshot.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_hq_dualcam_calibration.so:system/lib64/libjni_hq_dualcam_calibration.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_hq_hdr_shot.so:system/lib64/libjni_hq_hdr_shot.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_hq_night_shot.so:system/lib64/libjni_hq_night_shot.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_hq_panorama.so:system/lib64/libjni_hq_panorama.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_imageutil.so:system/lib64/libjni_imageutil.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_makeupV2.so:system/lib64/libjni_makeupV2.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_optizoom.so:system/lib64/libjni_optizoom.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_pacprocessor.so:system/lib64/libjni_pacprocessor.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_panorama.so:system/lib64/libjni_panorama.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_seestraight.so:system/lib64/libjni_seestraight.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_sharpshooter.so:system/lib64/libjni_sharpshooter.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_snapcammosaic.so:system/lib64/libjni_snapcammosaic.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_snapcamtinyplanet.so:system/lib64/libjni_snapcamtinyplanet.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_stillmore.so:system/lib64/libjni_stillmore.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_trackingfocus.so:system/lib64/libjni_trackingfocus.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_truescanner_v2.so:system/lib64/libjni_truescanner_v2.so \
+    vendor/asus/X01BD/proprietary/lib64/libjni_ubifocus.so:system/lib64/libjni_ubifocus.so \
+    vendor/asus/X01BD/proprietary/lib64/libmpbase.so:system/lib64/libmpbase.so \
+    vendor/asus/X01BD/proprietary/lib64/libscene-native-lib.so:system/lib64/libscene-native-lib.so \
+    vendor/asus/X01BD/proprietary/lib64/libtensorflow_inference.so:system/lib64/libtensorflow_inference.so \
     vendor/asus/X01BD/proprietary/vendor/lib64/lib-dplmedia.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib-dplmedia.so \
     vendor/asus/X01BD/proprietary/vendor/lib64/lib-imscmservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib-imscmservice.so \
     vendor/asus/X01BD/proprietary/vendor/lib64/lib-imsdpl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib-imsdpl.so \
